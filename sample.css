@@ -1,0 +1,26 @@
+body{
+    background-color:#393E46;
+    text-align: center;
+}
+img{
+    width: 80%;
+}
+.container{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h2{
+    color: rgb(1, 27, 1);
+    font-size: 8rem;
+    font-weight: 500;
+    margin: 20px;
+}
+p{
+    font-size: 2rem;
+    color: rgb(1, 27, 1);
+}
